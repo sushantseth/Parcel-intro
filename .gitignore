@@ -1,0 +1,10 @@
+# parcel cache
+
+.parcel-cache/
+# node modules
+
+node_modules/
+
+# dist 
+
+dist
